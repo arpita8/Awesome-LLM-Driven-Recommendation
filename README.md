@@ -24,7 +24,8 @@ By bridging the gap between traditional RecSys approaches and modern LLM-driven 
 
 Our work is based on the following paper:  
 📄 **A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges**  
-Available on [arXiv](https://arxiv.org/abs/2507.21117)
+Available on [arXiv](https://arxiv.org/abs/2507.21117), [ResearchGate](#), [Preprints](#), [PDF](#)  
+
 
 
 #### Authors  
