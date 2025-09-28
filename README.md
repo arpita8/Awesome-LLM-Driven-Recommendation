@@ -1,6 +1,6 @@
 # Awesome-LLM-Driven-Recommendation
 
-# Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models
+# A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges
 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rahulrj/Awesome-Object-Tracking)
