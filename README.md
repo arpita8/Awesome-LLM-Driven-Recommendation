@@ -56,7 +56,7 @@ If our work has been of assistance to you, please feel free to cite our survey. 
 </p>
 Taxonomy of recommender system challenges and corresponding LLM-based solutions. The framework categorizes challenges into four major areas—data-centric, modeling and algorithmic, evaluation, and privacy/security—each with sub-problems and LLM-driven strategies for addressing them..
 
----
+
 <!-- <p align="center">
   <img src="./images/timeline.png" width="100%" hieght="100%" />
 <!--   <img src="./Images/timeline.png" width="45%" height="50%" /> -->
@@ -64,7 +64,6 @@ Taxonomy of recommender system challenges and corresponding LLM-based solutions.
 Timeline of object tracking research from classical foundations and deep learning, through hybrid and transformer-based
 trackers, to recent long-term, multi-modal, and foundation/VLM-powered approaches. --> -->
 
----
 
 # 📚 LLMs for Recommender Systems Surveys
 
