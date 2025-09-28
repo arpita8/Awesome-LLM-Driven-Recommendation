@@ -41,15 +41,11 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 If our work has been of assistance to you, please feel free to cite our survey. Thank you.
 ```
-@article{202509.2051,
-	doi = {10.20944/preprints202509.2051.v1},
-	url = {https://doi.org/10.20944/preprints202509.2051.v1},
-	year = 2025,
-	month = {September},
-	publisher = {Preprints},
-	author = {Rahul Raja and Arpita Vats and Omkar Thawakar and Tajamul Ashraf},
-	title = {Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models},
-	journal = {Preprints}
+@article{raja2025comprehensive,
+  title={A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges},
+  author={Raja, Rahul and Vats, Anshaj and Vats, Arpita and Majumder, Anirban},
+  journal={arXiv preprint arXiv:2507.21117},
+  year={2025}
 }
 ```
 
