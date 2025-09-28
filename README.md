@@ -54,7 +54,7 @@ If our work has been of assistance to you, please feel free to cite our survey. 
   <img src="./images/taxanomy_RS.png" width="100%" hieght="100%" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
-Taxonomy of object tracking paradigms, spanning historical foundations, single-object tracking (SOT), multi-object tracking (MOT), long-term tracking (LTT), and emerging trends leveraging foundation and vision-language models. Each branch highlights representative methods and architectures across the evolution of tracking research.
+Taxonomy of recommender system challenges and corresponding LLM-based solutions. The framework categorizes challenges into four major areas—data-centric, modeling and algorithmic, evaluation, and privacy/security—each with sub-problems and LLM-driven strategies for addressing them..
 
 ---
 <p align="center">
