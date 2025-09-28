@@ -23,8 +23,8 @@ It systematically organizes advances across:
 By bridging the gap between traditional RecSys approaches and modern LLM-driven techniques, this repository serves as a **comprehensive resource for both researchers and practitioners** aiming to build the next generation of recommendation technologies.
 
 Our work is based on the following paper:  
-📄 **Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models**   
-Available on [ResearchGate](https://www.researchgate.net/publication/395893646_Object_Tracking_A_Comprehensive_Survey_From_Classical_Approaches_to_Large_Vision-Language_and_Foundation_Models), [Preprints](https://www.preprints.org/manuscript/202509.2051/v1), [PDF](https://www.dropbox.com/scl/fi/geznxyuapr0h5fnmdewui/Object-tracking-survey.pdf?rlkey=qego7kk7r2gk7c92nnqmvlgy3&st=6m86damb&dl=0)
+📄 **A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges**  
+Available on [arXiv](https://arxiv.org/abs/2507.21117)
 
 
 #### Authors  
