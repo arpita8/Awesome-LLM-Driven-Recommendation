@@ -51,7 +51,7 @@ If our work has been of assistance to you, please feel free to cite our survey. 
 
 ---
 <p align="center">
-  <img src="./images/taxonomy-ot.jpg" width="100%" hieght="100%" />
+  <img src="./images/taxanomy_RS.png" width="100%" hieght="100%" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
 Taxonomy of object tracking paradigms, spanning historical foundations, single-object tracking (SOT), multi-object tracking (MOT), long-term tracking (LTT), and emerging trends leveraging foundation and vision-language models. Each branch highlights representative methods and architectures across the evolution of tracking research.
