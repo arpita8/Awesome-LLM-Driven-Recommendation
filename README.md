@@ -11,9 +11,19 @@
 </p>
 
 
-Welcome to the **Awesome-Object-Tracking** repository!  
-This repository is a curated collection of the most influential **papers**, **code implementations**, **benchmarks**, and **resources** related to **Object Tracking** across **Single Object Tracking (SOT)**, **Multi-Object Tracking (MOT)**, **Long-Term Tracking (LTT)**, and **Foundation Model–based Tracking**.  
+This repository is a curated collection of the most influential papers, frameworks, benchmarks, and resources related to leveraging Large Language Models (LLMs) to address key challenges in Recommender Systems.
 
+It systematically organizes advances across:
+
+Data-Centric Challenges – cold start, sparsity, multimodal data, and temporal dynamics.
+
+Modeling & Algorithmic Challenges – personalization vs. generalization, scalability, and long-tail modeling.
+
+Evaluation & Experimentation – offline vs. online gaps, bias in feedback loops, and reliable benchmarking.
+
+Privacy, Security & Regulation – data sensitivity, fairness, and compliance with evolving legal standards.
+
+By bridging the gap between traditional RecSys approaches and modern LLM-driven techniques, this repository serves as a comprehensive resource for both researchers and practitioners aiming to build the next generation of recommendation technologies.
 Our work is based on the following paper:  
 📄 **Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models**   
 Available on [ResearchGate](https://www.researchgate.net/publication/395893646_Object_Tracking_A_Comprehensive_Survey_From_Classical_Approaches_to_Large_Vision-Language_and_Foundation_Models), [Preprints](https://www.preprints.org/manuscript/202509.2051/v1), [PDF](https://www.dropbox.com/scl/fi/geznxyuapr0h5fnmdewui/Object-tracking-survey.pdf?rlkey=qego7kk7r2gk7c92nnqmvlgy3&st=6m86damb&dl=0)
