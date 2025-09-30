@@ -73,14 +73,9 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 | A Survey on Post-training of Large Language Models | LLM Post-training | 2025 | [Arxiv](https://arxiv.org/abs/2503.06072) |
 | LLM Post-Training: A Deep Dive into Reasoning Large Language Models | Reasoning LLMs | 2025 | [Arxiv](https://arxiv.org/pdf/2502.21321) |
 | From System 1 to System 2: A Survey of Reasoning Large Language Models | Reasoning LLMs | 2025 | [Arxiv](https://arxiv.org/abs/2302.11867) |
-| Visual object tracking: A survey | MOT | 2022 | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001011) |
-| A Survey of Long-Term Visual Tracking | LTT | 2022 | [IEEE](https://ieeexplore.ieee.org/document/10292117) |
-| Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics | MOT | 2022 | [Arxiv](https://arxiv.org/abs/2201.13066) |
-| Deep Learning in Visual Object Tracking: A Review | SOT | 2021 | [IEEE](https://ieeexplore.ieee.org/document/9666461) |
-| Deep Learning For Visual Tracking: A Comprehensive Survey | SOT | 2021 | [Arxiv](https://arxiv.org/abs/1912.00535) |
-| Deep Learning for Generic Object Detection: A Survey | SOT/MOT | 2019 | [Springer](https://link.springer.com/article/10.1007/s11263-019-01247-4) |
-| A Survey of Multiple Object Tracking | MOT | 2016 | [IEEE](https://ieeexplore.ieee.org/abstract/document/7832121) |
-| Object tracking: A survey | SOT/MOT | 2006 | [ACM](https://dl.acm.org/doi/10.1145/1177352.1177355) |
+| Empowering LLMs with Logical Reasoning: A Comprehensive Survey | Reasoning LLMs | 2025 | [Arxiv](https://arxiv.org/abs/2502.15652) |
+| A Survey of Large Language Models for Recommendation | RecSys + LLMs | 2024 | [Arxiv](https://arxiv.org/abs/2402.18590) |
+| A Survey on Conversational Recommendation with Large Language Models | Conversational RecSys | 2023 | [Arxiv](https://arxiv.org/abs/2305.19860) |
 
 
 ## 📌 Single Object Tracking (SOT) Models
