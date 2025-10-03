@@ -73,9 +73,17 @@ Taxonomy of recommender system challenges and corresponding LLM-based solutions.
 - **Multimodal Integration** → modal-aware attention/gating; unified instruction-tuned encoding; cross-modal alignment; generative imputation
 - **Evaluation** → counterfactual evaluation; offline metric recalibration; simulation; LLM-generated evaluation rubrics
 - **Privacy & Governance** → data minimization with instructable filters; token-level attribution; DP/federated prompting and training
+(See the survey for formulas, architectures, and trade-offs.)
 
-(See the survey for formulas, architectures, and trade-offs.) :contentReference[oaicite:1]{index=1}
+## 📌 Data-Centric Challenges
 
+| Challenge | Sub-Problem | Representative LLM-Based Strategies | Refs |
+|---|---|---|---|
+| Data-Centric | Cold Start | Content-conditioned generation; Retrieval-Augmented Generation (RAG); zero/few-shot personalization; representation bootstrapping from text/metadata; cross-domain transfer via language; multimodal embedding synthesis | [ ] |
+| Data-Centric | Data Sparsity | text-driven generalization (instruction prompts); semantic matching with language embeddings; language-guided negative sampling | [ ] |
+| Data-Centric | Noisy Feedback | contextual prompt interpretation of clicks/implicit signals; soft-label denoising with LLM rationales; counterfactual prompting patterns | [ ] |
+| Data-Centric | Temporal Drift | drift-aware prompts (recent history emphasis); session‐aware summaries; hybrid long-term + short-term profile prompting | [ ] |
+| Data-Centric | Multimodal Integration | modal-aware weighting/gating; unified instruction-tuned encoders; cross-modal alignment (text↔image/video); generative imputation | [ ] |
 
 ## Affiliations
 [<img src="images/cmu-logo.png" width="100" height="150">](https://www.ival-mbzuai.com)
