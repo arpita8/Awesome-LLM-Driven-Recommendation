@@ -69,7 +69,7 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 | Title | Task | Publication Date | Link |
 |---------------------------------|------|----------------|---------------------------------|
-| A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges | RecSys + LLMs| 2025 | [Arxiv](https://arxiv.org/abs/2507.21117)) |
+| A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges | RecSys + LLMs| 2025 | [Arxiv](https://arxiv.org/abs/2507.21117) |
 | A Survey on Post-training of Large Language Models | LLM Post-training | 2025 | [Arxiv](https://arxiv.org/abs/2503.06072) |
 | LLM Post-Training: A Deep Dive into Reasoning Large Language Models | Reasoning LLMs | 2025 | [Arxiv](https://arxiv.org/pdf/2502.21321) |
 | From System 1 to System 2: A Survey of Reasoning Large Language Models | Reasoning LLMs | 2025 | [Arxiv](https://arxiv.org/abs/2302.11867) |
