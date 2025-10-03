@@ -40,29 +40,15 @@ Available on [arXiv](https://arxiv.org/abs/2507.21117), [ResearchGate](#), [Prep
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
 
 If our work has been of assistance to you, please feel free to cite our survey. Thank you.
-```
-@article{raja2025comprehensive,
-  title={A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges},
-  author={Raja, Rahul and Vats, Anshaj and Vats, Arpita and Majumder, Anirban},
-  journal={arXiv preprint arXiv:2507.21117},
-  year={2025}
-}
-```
 
----
+
 <p align="center">
   <img src="./images/taxanomy_RS.png" width="100%" hieght="100%" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
-Taxonomy of recommender system challenges and corresponding LLM-based solutions. The framework categorizes challenges into four major areas—data-centric, modeling and algorithmic, evaluation, and privacy/security—each with sub-problems and LLM-driven strategies for addressing them..
+Taxonomy of recommender system challenges and corresponding LLM-based solutions. The framework categorizes challenges into four major areas—data-centric, modeling and algorithmic, evaluation, and privacy/security—each with sub-problems and LLM-driven strategies for addressing them.
 
 
-<!-- <p align="center">
-  <img src="./images/timeline.png" width="100%" hieght="100%" />
-<!--   <img src="./Images/timeline.png" width="45%" height="50%" /> -->
-<!-- </p>
-Timeline of object tracking research from classical foundations and deep learning, through hybrid and transformer-based
-trackers, to recent long-term, multi-modal, and foundation/VLM-powered approaches. --> -->
 
 
 # 📚 LLMs for Recommender Systems Surveys
